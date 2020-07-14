@@ -6,3 +6,5 @@ teste de modificacao
 gostou do curso?
 
 Saiba mais em [maiconrauber.com](http://maiconrauber.com)
+
+teste tags
